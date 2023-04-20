@@ -8,7 +8,7 @@ This is the implementation of our research paper based on <b>LSB Steganography</
 The following modules must be installed before running this system:
 
 ```sh
-pip3 install Pillow pyaes hashlib numpy Cryptodome pbkdf2 binascii
+pip3 install Pillow pyaes numpy pycryptodome pbkdf2
 git clone https://github.com/lostmartian/Improved-LSB-Steganography.git
 python3 main.py
 ```
